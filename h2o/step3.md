@@ -25,6 +25,7 @@ Check status of Pods
 Assuming pods have successfully started, let us now login into the container via : (Ensure to replace <podman with the podname from the previous output>)
 
 `oc rsh <podname>`
-Running an example to ensure that the H2O application is up and running via 
+Running an example to ensure that the H2O application is up and running via:
 `ls `{{execute}}
 `./run_example.sh `{{execute}}
+asdsad
